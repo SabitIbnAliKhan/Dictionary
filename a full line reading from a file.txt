@@ -1,0 +1,9 @@
+#include <string>
+#include <iostream>
+
+int main() {
+   std::string line;
+   if (getline(std::cin,line)) {
+      // line is the whole line
+   }
+}

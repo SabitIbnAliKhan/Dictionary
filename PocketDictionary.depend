@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1503215430 source:c:\users\sudipto\desktop\study\cse 225.3\pocketdictionary\trie.cpp
+	"Trie.h"
+
+1503215430 c:\users\sudipto\desktop\study\cse 225.3\pocketdictionary\trie.h
+	"Node.h"
+	<vector>
+	<fstream>
+
+1503215430 c:\users\sudipto\desktop\study\cse 225.3\pocketdictionary\node.h
+	<iostream>
+
+1503160851 source:c:\users\sudipto\desktop\study\cse 225.3\pocketdictionary\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	"Trie.h"
+	"Node.h"
+
+1503244468 source:c:\users\sudipto\desktop\c++ project\pocketdictionary\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"Trie.h"
+	"Node.h"
+
+1503240745 c:\users\sudipto\desktop\c++ project\pocketdictionary\trie.h
+	"Node.h"
+	<vector>
+	<fstream>
+
+1503215430 c:\users\sudipto\desktop\c++ project\pocketdictionary\node.h
+	<iostream>
+
+1503241274 source:c:\users\sudipto\desktop\c++ project\pocketdictionary\trie.cpp
+	"Trie.h"
+
